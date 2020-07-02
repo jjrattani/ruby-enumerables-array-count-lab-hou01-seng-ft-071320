@@ -22,7 +22,7 @@ end
 
 def count_empty_strings(array)
   # Return the total number of EMPTY strings in the provided array using the count enumerable
-  array = [ "", "Hello", 4, [], "", "" ]
+  #array = [ "", "Hello", 4, [], "", "" ]
   count_empty_strings = 0
   index = 0
   
