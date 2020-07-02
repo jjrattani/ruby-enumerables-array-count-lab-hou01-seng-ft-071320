@@ -36,7 +36,7 @@ def count_empty_strings(array)
 end
 
 
-count_empty_strings
+#count_empty_strings
   
-  count_empty_strings(array)
+  #count_empty_strings(array)
   #number is 3 for result
