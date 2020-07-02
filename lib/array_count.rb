@@ -14,6 +14,12 @@ def count_strings(array)
   #number is 2 for result
 end
 
+#def is_anyone_vegetarian?(list_of_dietary_restrictions)
+ # list_of_dietary_restrictions.any? do |restriction|
+   # restriction == "vegetarian"
+  #end
+#end
+
 def count_empty_strings(array)
   # Return the total number of EMPTY strings in the provided array using the count enumerable
   array = [ "", "Hello", 4, [], "", "" ]
