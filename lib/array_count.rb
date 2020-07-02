@@ -32,6 +32,7 @@ def count_empty_strings(array)
     end
     index += 1
   end
+  count_empty_strings
 end
 
 
